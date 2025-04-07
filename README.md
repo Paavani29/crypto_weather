@@ -36,7 +36,7 @@ Follow these steps to get started:
 
 
 ## 🚀 Built Using  
-**WeatherWise** leverages the following technologies:  
+**CryptoWeather Nexus** leverages the following technologies:  
 - ⚡️ Next.js 14 (App Router)  
 - ⚛️ React 18  
 - ✨ TypeScript  
@@ -48,21 +48,6 @@ Follow these steps to get started:
 - 📦 Optional expansion packs for additional functionality  
 
 ---
-
-## 📁 Project Structure  
-The folder structure follows a clean and modular organization:  
-```plaintext
-📦 WeatherWise/  
-├── app/               # Application directory with routing  
-│   ├── city/          # Dynamic city routes  
-│   └── layout.tsx     # Application layout  
-├── components/        # Shared React components  
-├── lib/               # API fetching logic  
-├── public/            # Static assets  
-├── styles/            # Tailwind CSS configurations  
-├── .env.local         # Environment variable (API key)  
-├── README.md
-
 ## 🧪 Quick Start  
 1. Clone the repository:  
   
