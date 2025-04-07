@@ -83,7 +83,11 @@ Follow these steps to get started:
 Deploy the project effortlessly with [Vercel](https://vercel.com/).
 
 You can check the current projects deployment here:https://userology-50nijhtqg-paavs-projects.vercel.app/dashboard
----
+
+![image](https://github.com/user-attachments/assets/5bce6692-0cdd-49b1-b2b6-c3d7ade75363)
+![image](https://github.com/user-attachments/assets/b4f5798d-4a30-46d2-81cd-0f534826e2f3)
+![image](https://github.com/user-attachments/assets/2617616d-e73d-46ca-af6a-6277f17e6380)
+![image](https://github.com/user-attachments/assets/2710f512-c790-46af-8730-91a69e969e45)
 
 ## 🙌 Acknowledgements  
 Special thanks to:  
