@@ -54,21 +54,21 @@ You can also check all of the **details and demos** on my blog post:
 
 2. Using `create-next-app`
 
-   ```bash
+  
    pnpm create next-app  -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter ts-pnpm
-   ```
+   
 
    If you still want to use **pages directory** (_is not actively maintained_) you can use this command
 
-   ```bash
+   
    npx create-next-app -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/tree/pages-directory project-name
-   ```
+   
 
 3. Using `degit`
 
-   ```bash
+  
    npx degit theodorusclarence/ts-nextjs-tailwind-starter YOUR_APP_NAME
-   ```
+   
 
 4. Deploy to Vercel
 
@@ -86,9 +86,8 @@ pnpm install
 
 You can start the server using this command:
 
-```bash
 pnpm dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. You can start editing the page by modifying `src/pages/index.tsx`.
 
