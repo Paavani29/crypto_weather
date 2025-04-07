@@ -1,7 +1,7 @@
 # CryptoWeather Nexus 🌦️  
 **CryptoWeather Nexus** is a modern weather web application built with **Next.js**, **Tailwind CSS**, and **TypeScript**. It allows users to dynamically view the current weather crypto details and top crypto news.
 
-GitHub Repository:https://github.com/Paavani29/crypto_weather.git
+GitHub Repository:https://github.com/Paavani29/crypto_weather
 
 ## 🔍 Overview  
 This project showcases full-stack integration using cutting-edge web technologies. Its features include:  
