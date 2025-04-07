@@ -101,6 +101,6 @@ Special thanks to:
 
 👩‍💻 **Author**  
 Developed with ❤️ by **Paavani Ramesh**  
-Check out my https://github.com/Paavani29.git
+Check out my https://github.com/Paavani29
 
 ---
